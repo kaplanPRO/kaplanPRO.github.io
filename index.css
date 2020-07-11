@@ -1,0 +1,61 @@
+* {
+  box-sizing: border-box;
+  font-family: Calibri;
+}
+a, body, div, h1, h2, h3, h4, header, main, p {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #F5F5F5;
+}
+footer, header {
+  background-color: #FF4500;
+  color: white;
+  padding: 0 1rem;
+}
+main div {
+  background-color: #FAFAFA;
+  margin: 1rem auto;
+  padding: 1rem;
+  width: 80%;
+}
+main div.grid {
+  grid-template-columns: 1fr 2fr;
+  display: grid;
+  padding: 0;
+}
+main div.grid div {
+  display: inline-grid;
+  width: 100%;
+}
+main p {
+  text-align: center;
+}
+h1 {
+  font-size: 2rem;
+}
+h4 {
+  font-size: 1.5rem;
+}
+img {
+  max-width: 100%;
+}
+nav {
+  text-align: center;
+}
+nav a {
+  font-weight: 600;
+  text-decoration: none;
+}
+nav a:visited {
+  color: white;
+}
+p {
+  margin: 1rem 0;
+}
+@media (max-width: 600px) {
+  main div.grid {
+    display: block;
+  }
+}
