@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.5b203cf1.chunk.css",
-    "main.js": "/static/js/main.17575952.chunk.js",
-    "main.js.map": "/static/js/main.17575952.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9c59352d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9c59352d.js.map",
-    "static/js/2.4830f806.chunk.js": "/static/js/2.4830f806.chunk.js",
-    "static/js/2.4830f806.chunk.js.map": "/static/js/2.4830f806.chunk.js.map",
+    "main.css": "/static/css/main.a1f60e1d.chunk.css",
+    "main.js": "/static/js/main.fefcc8bb.chunk.js",
+    "main.js.map": "/static/js/main.fefcc8bb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1a238f5a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1a238f5a.js.map",
+    "static/js/2.e812b478.chunk.js": "/static/js/2.e812b478.chunk.js",
+    "static/js/2.e812b478.chunk.js.map": "/static/js/2.e812b478.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d3bca21cc0ff5cf55fe9cb28067c7d4f.js": "/precache-manifest.d3bca21cc0ff5cf55fe9cb28067c7d4f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5b203cf1.chunk.css.map": "/static/css/main.5b203cf1.chunk.css.map",
-    "static/js/2.4830f806.chunk.js.LICENSE.txt": "/static/js/2.4830f806.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.d056359d.svg"
+    "static/css/main.a1f60e1d.chunk.css.map": "/static/css/main.a1f60e1d.chunk.css.map",
+    "static/js/2.e812b478.chunk.js.LICENSE.txt": "/static/js/2.e812b478.chunk.js.LICENSE.txt",
+    "static/media/create-return-package-button.4662c5f1.png": "/static/media/create-return-package-button.4662c5f1.png",
+    "static/media/create_cloud_tm_button.c81d4891.png": "/static/media/create_cloud_tm_button.c81d4891.png",
+    "static/media/debugging-window.ac44655c.png": "/static/media/debugging-window.ac44655c.png",
+    "static/media/files-tab-with-create-project-button.24c4aad7.png": "/static/media/files-tab-with-create-project-button.24c4aad7.png",
+    "static/media/import-project-button.21cfe1b2.png": "/static/media/import-project-button.21cfe1b2.png",
+    "static/media/logo.6d17ae96.svg": "/static/media/logo.6d17ae96.svg",
+    "static/media/new-project-button.246869a2.png": "/static/media/new-project-button.246869a2.png",
+    "static/media/projects-tab-with-project.08dcff53.png": "/static/media/projects-tab-with-project.08dcff53.png",
+    "static/media/settings-button.8b3a6b76.png": "/static/media/settings-button.8b3a6b76.png",
+    "static/media/update-from-package-button.1a6bf04d.png": "/static/media/update-from-package-button.1a6bf04d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9c59352d.js",
-    "static/js/2.4830f806.chunk.js",
-    "static/css/main.5b203cf1.chunk.css",
-    "static/js/main.17575952.chunk.js"
+    "static/js/runtime-main.1a238f5a.js",
+    "static/js/2.e812b478.chunk.js",
+    "static/css/main.a1f60e1d.chunk.css",
+    "static/js/main.fefcc8bb.chunk.js"
   ]
 }
