@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.c5070552.chunk.css",
-    "main.js": "/static/js/main.ae840694.chunk.js",
-    "main.js.map": "/static/js/main.ae840694.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1a238f5a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1a238f5a.js.map",
-    "static/js/2.32229e5c.chunk.js": "/static/js/2.32229e5c.chunk.js",
-    "static/js/2.32229e5c.chunk.js.map": "/static/js/2.32229e5c.chunk.js.map",
+    "main.css": "/static/css/main.8098cfc4.chunk.css",
+    "main.js": "/static/js/main.258e7977.chunk.js",
+    "main.js.map": "/static/js/main.258e7977.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4360e313.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4360e313.js.map",
+    "static/js/2.e52d15be.chunk.js": "/static/js/2.e52d15be.chunk.js",
+    "static/js/2.e52d15be.chunk.js.map": "/static/js/2.e52d15be.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.c5070552.chunk.css.map": "/static/css/main.c5070552.chunk.css.map",
-    "static/js/2.32229e5c.chunk.js.LICENSE.txt": "/static/js/2.32229e5c.chunk.js.LICENSE.txt",
+    "static/css/main.8098cfc4.chunk.css.map": "/static/css/main.8098cfc4.chunk.css.map",
+    "static/js/2.e52d15be.chunk.js.LICENSE.txt": "/static/js/2.e52d15be.chunk.js.LICENSE.txt",
     "static/media/create-return-package-button.4662c5f1.png": "/static/media/create-return-package-button.4662c5f1.png",
     "static/media/create_cloud_tm_button.c81d4891.png": "/static/media/create_cloud_tm_button.c81d4891.png",
-    "static/media/debugging-window.ac44655c.png": "/static/media/debugging-window.ac44655c.png",
     "static/media/files-tab-with-create-project-button.24c4aad7.png": "/static/media/files-tab-with-create-project-button.24c4aad7.png",
     "static/media/import-project-button.21cfe1b2.png": "/static/media/import-project-button.21cfe1b2.png",
     "static/media/logo.6d17ae96.svg": "/static/media/logo.6d17ae96.svg",
@@ -22,9 +21,9 @@
     "static/media/update-from-package-button.1a6bf04d.png": "/static/media/update-from-package-button.1a6bf04d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a238f5a.js",
-    "static/js/2.32229e5c.chunk.js",
-    "static/css/main.c5070552.chunk.css",
-    "static/js/main.ae840694.chunk.js"
+    "static/js/runtime-main.4360e313.js",
+    "static/js/2.e52d15be.chunk.js",
+    "static/css/main.8098cfc4.chunk.css",
+    "static/js/main.258e7977.chunk.js"
   ]
 }
